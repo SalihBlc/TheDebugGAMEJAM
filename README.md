@@ -1,2 +1,2 @@
 # TheDebugGAMEJAM
-Google Oyun ve Uygulama Akademisinin Game Jame için yapmış olduğumuz oyun Hazır asset kullanılmamıştır.
+Google Oyun ve Uygulama Akademisinin Game Jam için iki kişi yapmış olduğumuz oyun.
